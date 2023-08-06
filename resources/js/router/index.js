@@ -1,5 +1,5 @@
 import {createRouter , createWebHistory} from "vue-router"; 
-import InvoiceIndex from '../components/invoices/index.vue'
+import InvoiceIndex from '../components/invoices/index.vue' 
 import NotFound from '../components/NoteFound.vue'
 
 const routes = [
